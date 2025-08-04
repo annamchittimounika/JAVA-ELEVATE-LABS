@@ -12,7 +12,7 @@ To build a basic calculator using Java console I/O that reinforces understanding
 ---
 
 ##  Tools Used
-- Java (JDK8)
+- Java (JDK 8)
 - Notepad
 - Command Prompt
 
