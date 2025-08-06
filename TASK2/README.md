@@ -6,15 +6,15 @@ A simple **Command Line Interface (CLI)** based application to manage student re
 
 ##  Features
 
-- ✅ Add a new student
-- 👀 View all student records
-- ✏️ Update student details
-- ❌ Delete student records
-- 💾 Stores data in memory using `ArrayList`
+-  Add a new student
+-  View all student records
+-  Update student details
+-  Delete student records
+-  Stores data in memory using `ArrayList`
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Java
 - ArrayList (Collections Framework)
