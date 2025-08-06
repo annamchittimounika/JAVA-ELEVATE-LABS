@@ -1,4 +1,4 @@
-# 🎓 Student Record Management System (CLI - Java)
+# Student Record Management System (CLI - Java)
 
 A simple **Command Line Interface (CLI)** based application to manage student records using Java. This project demonstrates basic **CRUD operations** (Create, Read, Update, Delete) using **Object-Oriented Programming** and **ArrayList**.
 
